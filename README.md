@@ -45,6 +45,7 @@
 
 ## プリファレンス詳細設定
 ・目盛り表示機能とタイム表示機能の`ON/OFF`を設定できます。
+
 ![image](https://github.com/user-attachments/assets/0e63f0d8-22ee-4a9b-9c4b-d70640d6f866)
 
 

@@ -1,4 +1,4 @@
-# ToPu_TimeScaleDisplay - タイムラインに目盛りを追加するアドオン
+# ToPu_TimeScaleDisplay - 目盛りと秒数の表示
 
 ![image](https://github.com/user-attachments/assets/2cfba2a8-46da-4f4c-ae5c-4f1b09b277e3)
 

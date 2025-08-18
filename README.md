@@ -31,7 +31,9 @@
 
 ・設定内容はポジションごとに固有の値となります。
 
-![image](https://github.com/user-attachments/assets/e2a67614-3c68-44ae-b6e8-831c28ecd565)
+<img width="230" height="501" alt="image" src="https://github.com/user-attachments/assets/29c99245-7d47-45a1-af5a-7a4457251e2b" />
+
+
 
 
 ## タイム表示詳細設定
@@ -42,13 +44,14 @@
 
 ・設定内容はポジションごとに固有の値となります。
 
-![image](https://github.com/user-attachments/assets/413000d9-82f1-4be9-8915-a7ae9d48eb1c)
+<img width="228" height="421" alt="image" src="https://github.com/user-attachments/assets/ff7184e3-cf8a-41d5-87d3-4ed460a0e3ff" />
+
 
 
 ## プリファレンス詳細設定
 ・目盛り表示機能とタイム表示機能の`ON/OFF`を設定できます。
 
-![image](https://github.com/user-attachments/assets/0e63f0d8-22ee-4a9b-9c4b-d70640d6f866)
+<img width="490" height="341" alt="image" src="https://github.com/user-attachments/assets/56d7a0f2-105b-4c5f-8024-acbe28afcd09" />
 
 
 ## 導入方法

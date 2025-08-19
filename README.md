@@ -23,7 +23,7 @@
 
 ## 目盛り詳細設定
 
-・変更内容は自動セーブされます。手動でも![image](https://github.com/user-attachments/assets/e1061473-661c-4e5d-8813-e317c7c614cf)セーブ可能です。
+・変更内容は手動で![image](https://github.com/user-attachments/assets/e1061473-661c-4e5d-8813-e317c7c614cf)セーブ可能です。
 
 
 ・変更内容を ![image](https://github.com/user-attachments/assets/b1bd18b7-750f-4494-a7ea-9fa138d51772)`エクスポート` と ![image](https://github.com/user-attachments/assets/0f1b4944-d01a-444e-9135-353fbc67c835)
@@ -38,7 +38,7 @@
 
 ## タイム表示詳細設定
 
-・変更したタイムラインの目盛りの詳細設定を保存したい場合必ずセーブをアイコンを押すようにしてください。
+・変更した詳細設定を保存したい場合必ずセーブをアイコンを押すようにしてください。
 
 ・`エクスポート` `インポート` 機能には対応していません。
 

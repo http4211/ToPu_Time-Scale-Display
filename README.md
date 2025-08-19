@@ -7,7 +7,7 @@
 
 
 ## 入手方法
-最新版は[Code > Download ZIP](https://github.com/http4211/ToPu_Time-Scale-Display/releases) または Dev ブランチから ZIP ファイルをダウンロードしてください。
+最新版は[Releasesまたはこちらから](https://github.com/http4211/ToPu_Time-Scale-Display/releases) ダウンロードください。
 
 ## 機能
 

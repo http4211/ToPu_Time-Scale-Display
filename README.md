@@ -51,7 +51,7 @@
 ## プリファレンス詳細設定
 ・詳細設定の言語で英語/日本語に切り替えれます。
 
-・目盛り表示機能とタイム表示機能の`ON/OFF`を設定できます。
+・目盛り表示機能とタイム表示機能のヘッダーアイコンの`ON/OFF`を設定できます。
 
 <img width="490" height="341" alt="image" src="https://github.com/user-attachments/assets/56d7a0f2-105b-4c5f-8024-acbe28afcd09" />
 
